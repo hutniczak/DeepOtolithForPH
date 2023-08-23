@@ -3,6 +3,9 @@ Apply inceptionV3 to predict fish age from otolith images using multi-task learn
 with fish length 
 @author: Dimitris Politikos, May 2021
 e-mail: dimpolitik@gmail.com
+
+Application for Pacific halibut
+
 """
 
 # Load libraries
